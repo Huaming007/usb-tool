@@ -1,0 +1,20 @@
+# Binaries
+usb_tool
+usb_tool_android_arm64
+usb_tool_linux_amd64
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+logs/
+
+# Configs
+.usb_spoof_config
+
+# IDEs
+.vscode/
+.idea/
+*.swp
