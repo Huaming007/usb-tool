@@ -75,6 +75,11 @@ CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -ldflags="-s -w" -o usb_tool_linu
 
 欢迎提交 Issue 或 Pull Request 来改进这个项目！
 
+## 👥 开发团队
+
+- **开发者/维护者**: [Huaming007](https://github.com/Huaming007)
+- **人工智能助手**: Gemini CLI Agent (由 Google 提供技术支持)
+
 ## 📄 许可证
 
 本项目采用 [MIT 许可证](LICENSE)。

@@ -85,6 +85,7 @@ func PrintLogo(udcName, speed, currentMan, currentVid, loopStatus string, isLoop
 	separator := strings.Repeat("─", ScreenWidth-2)
 	fmt.Printf("%s %s%s\n", P_DARK, separator, RESET)
 	fmt.Printf("%s    USB MASS STORAGE ENFORCER v9.0 - Go Edition%s\n", P_LIGHT, RESET)
+	fmt.Printf("%s    Author: Huaming007 & Gemini CLI%s\n", G_TEXT, RESET)
 	fmt.Printf("%s %s%s\n", P_DARK, separator, RESET)
 
 	loopColor := G_TEXT
